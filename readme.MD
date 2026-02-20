@@ -18,7 +18,7 @@ High performance: optimized for Lighthouse 99–100%
 
 # How to Use
 
-Click here to see the live demo:
+Click here to see the live demo: https://oliwier-dev.github.io/Quiz-app/
 
 # Customization
 
