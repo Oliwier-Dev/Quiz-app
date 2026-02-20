@@ -1,0 +1,17 @@
+[
+  { "question": "What planet do we live on?", "options": ["Mars", "Earth", "Venus", "Jupiter"], "answer": "Earth" },
+  { "question": "What is the name of our galaxy?", "options": ["Andromeda", "Milky Way", "Whirlpool", "Orion"], "answer": "Milky Way" },
+  { "question": "What is the closest star to Earth?", "options": ["Proxima Centauri", "Sirius", "The Sun", "Alpha Centauri"], "answer": "The Sun" },
+  { "question": "Which planet is known as the Red Planet?", "options": ["Mercury", "Mars", "Saturn", "Neptune"], "answer": "Mars" },
+  { "question": "What force keeps planets orbiting the Sun?", "options": ["Magnetism", "Gravity", "Wind", "Radiation"], "answer": "Gravity" },
+  { "question": "Which planet has the most visible rings?", "options": ["Uranus", "Neptune", "Saturn", "Jupiter"], "answer": "Saturn" },
+  { "question": "What is the name of Earth’s natural satellite?", "options": ["Europa", "Titan", "The Moon", "Phobos"], "answer": "The Moon" },
+  { "question": "What is a supernova?", "options": ["A new planet", "A black hole", "An exploding star", "A comet"], "answer": "An exploding star" },
+  { "question": "Which planet has the strongest gravity?", "options": ["Earth", "Jupiter", "Saturn", "Mars"], "answer": "Jupiter" },
+  { "question": "What is the boundary around a black hole called?", "options": ["Event Horizon", "Singularity", "Photon Belt", "Dark Ring"], "answer": "Event Horizon" },
+  { "question": "What type of galaxy is the Milky Way?", "options": ["Elliptical", "Irregular", "Spiral", "Ring"], "answer": "Spiral" },
+  { "question": "What is the name of the first artificial satellite sent into space?", "options": ["Apollo 11", "Voyager 1", "Sputnik 1", "Hubble"], "answer": "Sputnik 1" },
+  { "question": "What is the term for a planet outside our solar system?", "options": ["Asteroid", "Exoplanet", "Dwarf Planet", "Nebula"], "answer": "Exoplanet" },
+  { "question": "What element fuels most stars through nuclear fusion?", "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"], "answer": "Hydrogen" },
+  { "question": "What theory explains the origin of the universe?", "options": ["Relativity Theory", "Steady State Theory", "Big Bang Theory", "Quantum Loop Theory"], "answer": "Big Bang Theory" }
+]

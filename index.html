@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flash Cards</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <main class="app">
+        <section id="startQuizContainer" class="screen active">
+            <p class="screen-text">To start the quiz, tap the button below</p>
+            <button id="startQuizBtn" class="btn primary">Start</button>
+        </section>
+
+        <section id="quizContent" class="screen">
+            <div class="card">
+
+                <form id="form">
+                    <p id="questionText" class="question"></p>
+                    <div class="options">
+                        <label class="option">
+                            <input type="radio" name="answer" value="A">
+                            <span>Option One</span>
+                        </label> <br>
+
+                        <label class="option">
+                            <input type="radio" name="answer" value="B">
+                            <span>Option Two</span>
+                        </label> <br>
+
+                        <label class="option">
+                            <input type="radio" name="answer" value="C">
+                            <span>Option Three</span>
+                        </label> <br>
+
+                        <label class="option">
+                            <input type="radio" name="answer" value="D">
+                            <span>Option Four</span>
+                        </label>
+                    </div>
+                </form>
+
+            </div>
+        </section>
+        <section id="quizResultContainer" class="screen">
+            <h2 id="resultText">Your score: 0 / 0</h2>
+            <p id="resultSubtext"></p>
+
+            <div class="actions">
+                <button id="restartBtn" class="btn secondary">Restart</button>
+            </div>
+        </section>
+
+    </main>
+</body>
+</html>
