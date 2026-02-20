@@ -31,3 +31,6 @@ Extend functionality in script.js (e.g., timer, categories, multiple quizzes)
 # Tech
 
 HTML5 | CSS3 | JavaScript
+
+Idea: 
+https://roadmap.sh/projects/quiz-app
